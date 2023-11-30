@@ -2,7 +2,7 @@
 ##### This Repo Contain Both Frontend & Backend
 
 ## Overall Steps
-    1 - clone the project 
+    1 - clone the project : git clone https://github.com/nazeer-ahmed-dev/full-stack-test-elite.git
 ## Frontend 
     1 - cd frontend-elite-test
     2 - npm install

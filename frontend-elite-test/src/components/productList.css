@@ -1,0 +1,26 @@
+.main_container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    border : 10px solid #f9f4f3;
+}
+.product-list{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin: 10px 10px 10px 10px;
+    background-color: #f9f4f3;
+    padding: 20px 20px 20px 20px;
+}
+.price-rate{
+    display: flex;
+    justify-content: space-between;
+}
+.price{
+    display: flex;
+}
+.wallet-icon {
+    margin-right: 8px;
+}
